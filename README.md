@@ -25,6 +25,6 @@ distance=math.sqrt(((l2[0]-l1[0])**2+((l2[1]-l1[1])**2)))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-<br>![output](./pe2.png)
+<br>![output](./ex1c(p).png)
 ### RESULT:
 Thus the distance between the two points are successfully executed
